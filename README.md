@@ -10,3 +10,6 @@ I have divided this problem three parts<br>
 1. Pre-processing<br>
 2. Applying algo and Hypertunning<br>
 3. Validation and Prediction
+
+Download and install <a href="https://www.anaconda.com/download/#macos">Anaconda</a>
+Now clone or download this folder (Include python fine and dataset)
