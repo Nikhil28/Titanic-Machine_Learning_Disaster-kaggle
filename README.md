@@ -42,11 +42,11 @@ False Negative (FN) = 15<br>
 False Positive (FP) = 9<br>
 True Positive (TP) = 54<br>
 
-Don't Be Afraid of Scary Math.
+Don't Be Afraid of Scary Math, it's simple and short.
 
 *Accuracy* = (TN+TP)/(TN+FP+FN+TP) ~ 86.6<br>
 *Precision* = TP/(FP+TP) ~ 85.7<br>
-*Recall * = TP/(FN+TP) ~ 78.3<br>
-*F1* = 2((Precision*Recall)/(Precision+Recall)) ~ 81.8<br>
+*Recall* = TP/(FN+TP) ~ 78.3<br>
+*F1* = 2((Precision x Recall)/(Precision+Recall)) ~ 81.8<br>
 
 *<a href="https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9" target="_blank" rel="noopener noreferrer">Accuracy, Precision, Recall or F1?</a>* 
