@@ -34,7 +34,7 @@ I have divided this problem three parts<br>
    
 Download and install <a href="https://www.anaconda.com/download/" target="_blank" rel="noopener noreferrer">Anaconda</a>. It's optional if python is already setup in your environment although *Anaconda* is much easier to use.
 
-Now clone or download this folder (It include's python files and datasets) and run the code in IPython Console in the same folder.
+Now, clone or download *titanic-ml-disaster* folder (It include's python files and datasets) and run the code in IPython Console in the same folder.
 
 Confusion Matrix dataset to describe the performance of a classification model.<br>
 True Negative (TN) = 101<br>
