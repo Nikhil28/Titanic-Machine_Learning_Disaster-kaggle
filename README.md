@@ -36,6 +36,8 @@ Download and install <a href="https://www.anaconda.com/download/" target="_blank
 
 Now, clone or download <b>titanic-ml-disaster</b> folder (It include's python files and datasets) and run the code in IPython Console in the same folder.
 
+*Winner of this problem in my case - <b>Random Forest Classifier</b>.*
+
 Confusion Matrix dataset to describe the performance of a classification model.<br>
 <b></b>True Negative (TN) = 101<br>
 <b></b>False Negative (FN) = 15<br>
