@@ -52,3 +52,5 @@ Don't Be Afraid of Scary Math, it's simple and short.
 <b>F1</b> = 2 ((Precision x Recall) / (Precision + Recall)) ~ 81.8<br>
 
 *<a href="https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9" target="_blank" rel="noopener noreferrer">Accuracy, Precision, Recall or F1?</a>* 
+
+Connect: https://www.linkedin.com/in/mrnikhilgupta/
